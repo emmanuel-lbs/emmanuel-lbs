@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">elabasqu</h1>
+<h3 align="center">42 Lyon student</h3>
 
+<p align="center"><img align="center" src="https://badge42.herokuapp.com/api/stats/elabasqu"/>
 <!--
 **emmanuel-lbs/emmanuel-lbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
